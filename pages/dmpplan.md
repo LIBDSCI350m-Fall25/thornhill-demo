@@ -9,7 +9,7 @@ permalink: /dmpplan.html
 
 This is my data management plan! YAYAYAYAYYAY!
 
-[This is a link to my metadata application profile.](https://wwww.google.com)
+[This is a link to my metadata application profile.](/objects/DSCI LIB 305m Fall 2025 - Metadata Application Profile Guidelines for DSCI_LIB 350m Fall 2025.pdf)
 
 1. bandana
 2. apples
